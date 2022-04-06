@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=yunduhee&animation=fadeIn&fontSize=90" />
-
+### language
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
 **duhee01/duhee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
