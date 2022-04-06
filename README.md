@@ -4,6 +4,8 @@
 ### language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
+![짱구 gif](https://user-images.githubusercontent.com/95074213/161941468-b3ff7766-795e-4716-95f3-4b5cdd3f0af6.gif)
+
 <!--
 **duhee01/duhee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
