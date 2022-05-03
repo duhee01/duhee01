@@ -23,7 +23,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
 ![79061fd4-7526-4517-a3d3-2eddcda7e61f](https://user-images.githubusercontent.com/95074213/162026066-4246be85-ed2c-4d2a-b675-2fa989cf17ec.gif)<a>
-![짱구 gif](https://user-images.githubusercontent.com/95074213/161941468-b3ff7766-795e-4716-95f3-4b5cdd3f0af6.gif)
+
  
  
 <!--
